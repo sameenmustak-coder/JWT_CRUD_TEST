@@ -353,7 +353,7 @@ assets/login.png
 assets/register.png
 ```
 
-![Register](assets/demo2.png)
+![Register](assets/Screenshot 2026-07-10 112235.png)
 
 ---
 
