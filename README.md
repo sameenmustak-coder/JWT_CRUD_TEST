@@ -343,7 +343,7 @@ The application uses:
 assets/login.png
 ```
 
-![Login](assets/demo.png)
+![Login](assets/Screenshot 2026-07-10 112050.png)
 
 ---
 
